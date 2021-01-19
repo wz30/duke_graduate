@@ -24,3 +24,16 @@ The repo includes duke course materials and my peronsal suugestions, and track w
     - iteration is not enough
     - training set is too small
     - stuck on local optimal
+
+### Winter break(two months or more)
+- Since school ends Fall early, we have two months winter break ever. It is the longest one ever.
+- I had an ambitious and detailed plan but it did not work very well.
+  - keep working on the research every week but not really productive since I was stuck on this and did not yield any good outputs. Vicious cycle begins. BTW, the research topic is about container and networking. it is a good and a promising area. However, I did not have enough knowledge on that. 
+  - OSTEP book: three easy pieces book. Finished around 20 or less chapters. It is a great book to learn and start operating system.
+  - first couple chapters of Linux programming intereface.
+  - leetcode problem , not a lot.
+  - ski once and that was a good experience 
+  - container and k8s learning. 
+  - Teaching Charles and Cindy every week.
+- Overall, it is not a productive winter break and did not work a lot every day. Thera are couple improvements. 
+  - workout and shower are the best and feasible way to recover from "Pandenmic mood"
