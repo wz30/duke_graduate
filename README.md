@@ -37,3 +37,11 @@ The repo includes duke course materials and my peronsal suugestions, and track w
   - Teaching Charles and Cindy every week.
 - Overall, it is not a productive winter break and did not work a lot every day. Thera are couple improvements. 
   - workout and shower are the best and feasible way to recover from "Pandenmic mood"
+  
+
+### Spring Semester 2021
+- edge computing: empower IoT and cloud computing. Edge node are like the middle layer between IoT and cloud server
+- ECE 568 robust server software
+- interview class(1.5 credit taught by Owen): leetcode and hackrank problem
+- writing class: problem-solution based paper and topic are field related.
+- TA CS 201: quite a lot of logistic works. 
