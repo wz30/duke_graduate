@@ -45,3 +45,9 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 - interview class(1.5 credit taught by Owen): leetcode and hackrank problem
 - writing class: problem-solution based paper and topic are field related.
 - TA CS 201: quite a lot of logistic works. 
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
