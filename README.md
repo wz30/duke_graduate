@@ -42,6 +42,12 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 ### Spring Semester 2021
 - edge computing: empower IoT and cloud computing. Edge node are like the middle layer between IoT and cloud server
 - ECE 568 robust server software
+  - 1st project: django to create rider share web app. 
+  - 2nd project: web cache proxy server (using multithread, lock and socket programming)
+    - cache overview: https://www.mnot.net/cache_docs/#ABOUT
+    - good tutorial about socket programming: http://beej.us/guide/bgnet/html/#select
+      - recv can receive header or header+contents. it depends
+    - mocklab to customize the response header and contents: https://app.mocklab.io/mock-apis/l7wwd/stubs/54f6eb4b-e621-44ba-96bc-9903ccbb4b4a
 - interview class(1.5 credit taught by Owen): leetcode and hackrank problem
 - writing class: problem-solution based paper and topic are field related.
 - TA CS 201: quite a lot of logistic works. 
