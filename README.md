@@ -52,6 +52,8 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 - writing class: problem-solution based paper and topic are field related.
 - TA CS 201: quite a lot of logistic works. 
 
+- Until 4/5/2021, I am not doing very well in this semester and I just figure out why that would happen. The main reason is that I made myself super busy and that hurts my confidence. TA in 201 is not a good choice for me since it takes up lots up time to grade the homework and ECE 568 projects take more time. Anyway, I need to catch up where I left. 
+
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
