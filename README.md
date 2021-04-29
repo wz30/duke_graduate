@@ -41,6 +41,8 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 
 ### Spring Semester 2021
 - edge computing: empower IoT and cloud computing. Edge node are like the middle layer between IoT and cloud server
+  - Me and my partner work on the research project: practical data cleaning in Federated Learning.
+  - We are required to read many papers and prepare for reading quiz for each paper.
 - ECE 568 robust server software
   - 1st project: django to create rider share web app. 
   - 2nd project: web cache proxy server (using multithread, lock and socket programming)
@@ -48,19 +50,20 @@ The repo includes duke course materials and my peronsal suugestions, and track w
     - good tutorial about socket programming: http://beej.us/guide/bgnet/html/#select
       - recv can receive header or header+contents. it depends
     - mocklab to customize the response header and contents: https://app.mocklab.io/mock-apis/l7wwd/stubs/54f6eb4b-e621-44ba-96bc-9903ccbb4b4a
-  - 3nd project: stock exchange server software: TA will test the propgram in details. Another point is that loading testing is required.
+  - 3nd project: stock exchange server software: TA will test the propgram in details. Another requirement is loading testing.
   - final project: mini UPS and mini AMAZON. Google protocol buffer is a hard part. Testing is also hard.
   - Midterm is hard sicne we have short time to complete and there are 7 questions. The exam is testing your basic and deep knowledge on the topics. In addition, how to apply the knowledge is another requiremnt for the exam.
   - Final exam is similar to Midterm exam but with more time. It focues more on security topic. Not hard one. 
   - What I learned from this class:
     - how to create a robust server software in various aspects?
-    - Class assignment involves lots of codings and takes more time than I though. Expertise on the programming language/framework is a prerequisite.
+    - Class assignment involves lots of codings and takes more time than I thought. Expertise on the programming language/framework is a prerequisite.
 - interview class(1.5 credit taught by Owen): leetcode and hackrank problem
 - writing class: problem-solution based paper and topic are field related.
 - TA CS 201: quite a lot of logistic works. 
 
 - Until 4/5/2021, I am not doing very well in this semester and I just figure out why that would happen. The main reason is that I made myself super busy and that hurts my confidence. TA in 201 is not a good choice for me since it takes up lots up time to grade the homework and ECE 568 projects take more time. Anyway, I need to catch up where I left. 
 
+### Summer Semester 2021
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
