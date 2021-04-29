@@ -48,6 +48,13 @@ The repo includes duke course materials and my peronsal suugestions, and track w
     - good tutorial about socket programming: http://beej.us/guide/bgnet/html/#select
       - recv can receive header or header+contents. it depends
     - mocklab to customize the response header and contents: https://app.mocklab.io/mock-apis/l7wwd/stubs/54f6eb4b-e621-44ba-96bc-9903ccbb4b4a
+  - 3nd project: stock exchange server software: TA will test the propgram in details. Another point is that loading testing is required.
+  - final project: mini UPS and mini AMAZON. Google protocol buffer is a hard part. Testing is also hard.
+  - Midterm is hard sicne we have short time to complete and there are 7 questions. The exam is testing your basic and deep knowledge on the topics. In addition, how to apply the knowledge is another requiremnt for the exam.
+  - Final exam is similar to Midterm exam but with more time. It focues more on security topic. Not hard one. 
+  - What I learned from this class:
+    - how to create a robust server software in various aspects?
+    - Class assignment involves lots of codings and takes more time than I though. Expertise on the programming language/framework is a prerequisite.
 - interview class(1.5 credit taught by Owen): leetcode and hackrank problem
 - writing class: problem-solution based paper and topic are field related.
 - TA CS 201: quite a lot of logistic works. 
