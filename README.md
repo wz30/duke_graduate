@@ -64,8 +64,12 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 - Until 4/5/2021, I am not doing very well in this semester and I just figure out why that would happen. The main reason is that I made myself super busy and that hurts my confidence. TA in 201 is not a good choice for me since it takes up lots up time to grade the homework and ECE 568 projects take more time. Anyway, I need to catch up where I left. 
 
 ### Summer Semester 2021
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+- Summer internship in Intuit(IDLM team)
+  - 1st project: graphql Linter project
+    - First stage: build a tool to check schema before runtime.
+    - Second stage: deploy a container to host such tool and serving the GraphQL Schema Playground webiste. User can gain the best practice from the website.
+  - I learned Kubernates by myself through a real example: sentiment analysis. 
+- Research: network hint 
+  - figure out the better way to manage the traffic flow.
+- Learning distributed system
+  - Now I am focusing on Raft.
