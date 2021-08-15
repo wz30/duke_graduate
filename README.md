@@ -69,8 +69,12 @@ The repo includes duke course materials and my peronsal suugestions, and track w
     - First stage: build a tool to check schema before runtime.
     - Second stage: deploy a container to host such tool and serving the GraphQL Schema Playground webiste. User can gain the best practice from the website.
   - I learned Kubernates by myself through a real example: sentiment analysis. 
+  - 2nd Project: Migration from IKS1 to IKS2 (Intuit Kubernates Services)
+    - this is a devops task
+    - tech: jenkins peipeline, ArgoCD, Kubernates
 - Research: network hint 
   - figure out the better way to manage the traffic flow.
 - Learning distributed system
   - Now I am focusing on Raft.
+    - passed 2A
 - Learning distributed System by Mark from Cambridge.
