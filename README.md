@@ -41,13 +41,6 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 
 - Until 4/5/2021, I am not doing very well in this semester and I just figure out why that would happen. The main reason is that I made myself super busy and that hurts my confidence. TA in 201 is not a good choice for me since it takes up lots up time to grade the homework and ECE 568 projects take more time. Anyway, I need to catch up where I left. 
 
-### Fall Semster 2020
-- machine leaning in CS department
-- computer security in ECE
-- Introduction to AI in CS
-- Algorithms in real world undergrad courses in CS
-- SLIM - network research
-
 ### Winter break(two months or more)
 - Since school ends Fall early, we have two months winter break ever. It is the longest one ever.
 - I had an ambitious and detailed plan but it did not work very well.
@@ -60,6 +53,13 @@ The repo includes duke course materials and my peronsal suugestions, and track w
   - Teaching Charles and Cindy every week.
 - Overall, it is not a productive winter break and did not work a lot every day. Thera are couple improvements. 
   - workout and shower are the best and feasible way to recover from "Pandenmic mood"
+
+### Fall Semster 2020
+- machine leaning in CS department
+- computer security in ECE
+- Introduction to AI in CS
+- Algorithms in real world undergrad courses in CS
+- SLIM - network research
 
 #### Intro to AI
 - final exam: Since COVID 19, it is a 3 hout exam. And the problem is quite comprehensive, including all the core parts taught in class. 
