@@ -75,6 +75,6 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 - Research: network hint 
   - figure out the better way to manage the traffic flow.
 - Learning distributed system
-  - Now I am focusing on Raft.
+  - Now I am focusing on Raft <img src="https://github.com/raft/logo/blob/master/annie-solo.png" alt="Raft Logo" style="height: 20px; width:20px;"/>. 
     - passed 2A
 - Learning distributed System by Mark from Cambridge.
