@@ -10,6 +10,7 @@ The repo includes duke course materials and my peronsal suugestions, and track w
   - taught by Mattew Lentz
 - Academic presentation by Brad
 - TA in 201 Data structure
+- Intuit full time return offer
 
 ### Summer Semester 2021
 - Summer internship in Intuit(IDLM team)
