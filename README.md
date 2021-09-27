@@ -2,7 +2,14 @@
 The repo includes duke course materials and my peronsal suugestions, and track what I learned and achieved since joined Duke. 
 
 ### Fall Semester 2021
-
+- CS 514 computer network
+  - taught by Bruce Maggs and Shane Zhang
+- CS 550 computer architecture
+  - taught by Daniel Sorin
+- CS 590 secure software system
+  - taught by Mattew Lentz
+- Academic presentation by Brad
+- TA in 201 Data structure
 
 ### Summer Semester 2021
 - Summer internship in Intuit(IDLM team)
