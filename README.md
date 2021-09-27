@@ -1,6 +1,9 @@
 # duke_graduate
 The repo includes duke course materials and my peronsal suugestions, and track what I learned and achieved since joined Duke. 
 
+### Fall Semester 2021
+
+
 ### Summer Semester 2021
 - Summer internship in Intuit(IDLM team)
   - 1st project: graphql Linter project
