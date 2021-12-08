@@ -1,10 +1,16 @@
 # duke_graduate
 The repo includes duke course materials and my peronsal suugestions, and track what I learned and achieved since joined Duke. 
 
+### Winter Break 2021
+- socket fuzzing reserach
+
 ### Fall Semester 2021
 - CS 514 computer network
+  - Midterm exam is harder than final exam. The exam is testing if you really understand the concept, not mechanically remember the concept. Quite different from Tyler's computer security 
+  - My project: analysis on various TCP congestion algorithm.
+  - Homeworks are useful materials to study the key points of the lectures
   - taught by Bruce Maggs and Shane Zhang
-- CS 550 computer architecture
+- CS 550 computer architecture 
   - taught by Daniel Sorin
 - CS 590 secure software system
   - taught by Mattew Lentz
