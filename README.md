@@ -1,6 +1,16 @@
 # duke_graduate
 The repo includes duke course materials and my peronsal suugestions, and track what I learned and achieved since joined Duke. 
 
+### Spring Semester 2022
+- no classes since i satisfied all the requirments and choose to graduate with project/thesis.
+- Auditing danyang's seminar class: Data Center systems(https://courses.cs.duke.edu/spring22/compsci590.4/). Read many classic paper which onctains three categories.
+  - data center networking
+  - machine leanring system
+  - system 
+- working on the project
+  - extend work on Lightning(https://github.com/wz30/lightning): distributed lightning: master/worker model with hashing slots.
+- UCLA with Yuval Tamir(https://web.cs.ucla.edu/~tamir/)
+
 ### Winter Break 2021
 - socket fuzzing reserach
 
