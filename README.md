@@ -10,7 +10,8 @@ The repo includes duke course materials and my peronsal suugestions, and track w
 - working on the project
   - extend work on Lightning(https://github.com/wz30/lightning): distributed lightning: master/worker model with hashing slots.
 - UCLA with Yuval Tamir(https://web.cs.ucla.edu/~tamir/)
-- TA in programing interview class
+- TA in programing interview class (introduction to leetcode and some basic data structure)
+- EAD is approved by filing online. my.uscis.gov
 
 ### Winter Break 2021
 - socket fuzzing reserach
