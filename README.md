@@ -1,5 +1,6 @@
 # duke_graduate
 The repo includes duke course materials and my peronsal suugestions, and track what I learned and achieved since joined Duke. 
+conatct: zw15724584198@gmail.com
 
 ### Spring Semester 2022
 - no classes since i satisfied all the requirments and choose to graduate with project/thesis.
