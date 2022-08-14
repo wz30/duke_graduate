@@ -1,6 +1,12 @@
 # duke_graduate
 The repo includes duke course materials and my peronsal suugestions, and track what I learned and achieved since joined Duke.   
 conatct: zw15724584198@gmail.com
+## Latest update on 8/14/2022
+
+### Summer after graduation
+- A trip to Florida with friends majoring in Economy and Jack. We had a detailed plan ahead of the trip visiting Orlando, Universal Studio, Key West, Wetland, seeing alligator
+- Another trip with CS friends to Zion national park.  We rented RV and had a greate experience. It was a blast
+- Start to do some real stuff.
 
 ### Spring Semester 2022
 - no classes since i satisfied all the requirments and choose to graduate with project/thesis.
